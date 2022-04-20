@@ -1,0 +1,10 @@
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\bin\Debug\DalsiUkol-3.exe.config
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\bin\Debug\DalsiUkol-3.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\bin\Debug\DalsiUkol-3.pdb
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol-3.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol_3.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol_3.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol-3.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol-3.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol-3.exe
+C:\Users\A\OneDrive\Dokumenty\2 . ročník\C Sharp ------------------------\STRING____--------_____-----\DalsiUkol-3\DalsiUkol-3\obj\Debug\DalsiUkol-3.pdb
